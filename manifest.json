@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "baseUrl": "https://raw.githubusercontent.com/n68257703-ai/crmp-files/main/files/",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/n68257703-ai/crmp-files@main/files/",
   "files": [
     { "path": "test.txt", "hash": "d8e8fca2dc0f896fd7cb4cb0031ba249", "size": 5 }
   ]
