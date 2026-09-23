@@ -1,45 +1,30 @@
-{
-  "updated": "2026-09-22T20:00:00Z",
-  "servers": [
+[
     {
-      "id": "red",
-      "name": "RED",
-      "tag": "(X2 АКЦИИ)",
-      "online": 999,
-      "maxOnline": 1000,
-      "color": "#E53935",
-      "ip": "play.crmp.ru",
-      "port": 7777
+        "online": "20",
+        "maxonline": "1000",
+        "color": "FF0000",
+        "x2": "true",
+        "key": "1424",
+        "name": "RED",
+        "firstname": "RED",
+        "secondname": "",
+        "url": "red.blackrussia.online",
+        "ip": "	80.242.59.112",
+        "port": "8545"
+
     },
     {
-      "id": "blue",
-      "name": "BLUE",
-      "tag": "",
-      "online": 1000,
-      "maxOnline": 1000,
-      "color": "#2979FF",
-      "ip": "play.crmp.ru",
-      "port": 7778
-    },
-    {
-      "id": "green",
-      "name": "GREEN",
-      "tag": "",
-      "online": 542,
-      "maxOnline": 1000,
-      "color": "#00E676",
-      "ip": "play.crmp.ru",
-      "port": 7779
-    },
-    {
-      "id": "orange",
-      "name": "ORANGE",
-      "tag": "(X2 АКЦИИ)",
-      "online": 890,
-      "maxOnline": 1000,
-      "color": "#FF9100",
-      "ip": "play.crmp.ru",
-      "port": 7780
+        "online": "20",
+        "maxonline": "1000",
+        "color": "FFFFFF",
+        "x2": "true",
+        "key": "1424",
+        "name": "volgograd",
+        "firstname": "volgograd",
+        "secondname": "",
+        "url": "volgograd.blackrussia.online",
+        "ip": "	80.242.59.112",
+        "port": "8545"
+
     }
-  ]
-}
+]
